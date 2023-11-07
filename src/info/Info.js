@@ -2,8 +2,6 @@ import self from "../img/self.gif"
 import node from "../img/node-project.webp"
 import pricenuxt from "../img/pricenuxt.png"
 import petshop from "../img/pet.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
 import prismapost from "../img/prisma-ts-nest.png"
 
 export let colors = ["#a8a927", "#485d18"];
