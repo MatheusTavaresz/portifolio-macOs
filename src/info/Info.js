@@ -45,7 +45,7 @@ export const info = {
         }
 
     ],
-    bio: "Hello! My name is Patrick, and I'm a web developer at Ezok. I'm currently studying Data Science at Descomplica. I enjoy long walks on the beach and hold the belief that artificial intelligence will inevitably govern our future. I would be a valuable addition to your team!",
+    bio: "Hello! My name is Patrick, and I'm a web developer at Ezok. I'm currently studying Data Science at Descomplica. I enjoy long walks on the beach and hold the belief that artificial intelligence will inevitably govern our future. (:",
     skills:
         {
             proficientWith: ['javascript', 'typescript', 'react', 'vue', 'nuxt', 'nest', 'aws', 'bootstrap', 'html5', 'css3'],
