@@ -25,7 +25,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "full stack developer at ezok"
+            text: "full stack developer"
         },
         {
             emoji: "📧",
@@ -45,7 +45,7 @@ export const info = {
         }
 
     ],
-    bio: "Hello! My name is Patrick, and I'm a web developer at Ezok. I'm currently studying Data Science at Descomplica. I enjoy long walks on the beach and hold the belief that artificial intelligence will inevitably govern our future. (:",
+    bio: "Hello! My name is Patrick, and I'm a web developer. I'm currently studying Data Science at Descomplica. I enjoy long walks on the beach and hold the belief that artificial intelligence will inevitably govern our future. (:",
     skills:
         {
             proficientWith: ['javascript', 'typescript', 'react', 'vue', 'nuxt', 'nest', 'aws', 'bootstrap', 'html5', 'css3'],
